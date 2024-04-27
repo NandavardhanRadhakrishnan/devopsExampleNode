@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NandavardhanRadhakrishnan/devopsExampleNode/issues"
   },
-  "homepage": "https://github.com/NandavardhanRadhakrishnan/devopsExampleNode#readme"
+  "homepage": "https://github.com/NandavardhanRadhakrishnan/devopsExampleNode#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
